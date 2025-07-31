@@ -10,6 +10,8 @@ body {
   background: #E3F2FD;
   background-image: url('clouds-blue-sky_87394-2774.avif');
   background-size: cover;
+  background-repeat: no-repeat;
+
 }
 h1 {
   background:transparent;
